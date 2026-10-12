@@ -42,5 +42,5 @@ Pace license: [LICENSE](./LICENSE)
 
 
 <p align="center">
-  <img src="[![i-Screen-Shoter-20261012054725980.jpg](https://i.postimg.cc/HW9Kj3dj/i-Screen-Shoter-20261012054725980.jpg)](https://postimg.cc/CddJQGZV)" alt="Pace App Preview" width="350" />
+  <img src="https://i.postimg.cc/HW9Kj3dj/i-Screen-Shoter-20261012054725980.jpg" alt="Pace App Preview" width="350" />
 </p>

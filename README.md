@@ -31,20 +31,4 @@ Pace license: [LICENSE](./LICENSE)
 
 ## Authors
 
-
-
-## Screenshots
-
-<p align="center">
-  <img src="https://i.postimg.cc/bwpwkmty/i-Screen-Shoter-Pace-261012045237.jpg" alt="Pace App Preview" width="350" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://i.postimg.cc/HW9Kj3dj/i-Screen-Shoter-20261012054725980.jpg" alt="Pace App Preview" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://i.postimg.cc/BQvhb0mm/image.png" alt="Pace App Preview" width="350" />
-</p>
+- [@Phat](https://www.github.com/pathdrinker)

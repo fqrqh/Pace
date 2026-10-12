@@ -31,7 +31,6 @@ Pace license: [LICENSE](./LICENSE)
 
 ## Authors
 
-- ![Pace App Preview](https://i.postimg.cc/bwpwkmty/i-Screen-Shoter-Pace-261012045237.jpg)
 
 
 ## Screenshots

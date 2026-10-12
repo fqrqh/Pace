@@ -36,5 +36,5 @@ Pace license: [LICENSE](./LICENSE)
 
 ## Screenshots
 
-![frontpage]([![i-Screen-Shoter-Pace-261012045237.jpg](https://i.postimg.cc/bwpwkmty/i-Screen-Shoter-Pace-261012045237.jpg)](https://postimg.cc/WhYVP68C))
+![frontpage]((https://i.postimg.cc/bwpwkmty/i-Screen-Shoter-Pace-261012045237.jpg))
 

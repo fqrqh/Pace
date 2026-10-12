@@ -19,7 +19,7 @@ Pace is a spaced repetition app developed in Swift, initially available only on 
 
 ### Contributing
 
-Pace is made by a single developer, so contributions are welcomed here. To submit a contribution, changes you need to send an email to me at '''
+Pace is made by a single developer, so contributions are welcomed here. To submit a contribution, changes you need to let me know and i will approve it
 
 #### Contributors
 

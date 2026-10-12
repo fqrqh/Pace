@@ -31,7 +31,7 @@ Pace license: [LICENSE](./LICENSE)
 
 ## Authors
 
-- [@Phat](https://www.github.com/pathdrinker)
+- ![Pace App Preview](https://i.postimg.cc/bwpwkmty/i-Screen-Shoter-Pace-261012045237.jpg)
 
 
 ## Screenshots
